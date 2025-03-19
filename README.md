@@ -6,11 +6,19 @@ The aim of the game is to get to the enemys's side of the map and locate their s
 
 Content from the game:
 
+Main menu:
+
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/a349eabb-859c-4c9d-b5b5-42fcdef1423c" />
+
+Ragdol physics:
 
 https://github.com/user-attachments/assets/26f0339f-6c26-496c-bff2-b68c0db33815
 
+Limiting enemies damadge so users dont die too soon:
+
 https://github.com/user-attachments/assets/6b90823e-f198-4eba-8d1b-a9b0c9bb9726
+
+Grenade physics and explosion effect:
 
 https://github.com/user-attachments/assets/868b74df-d27f-47bd-a2f1-7a0afbd38e74
 
